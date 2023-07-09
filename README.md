@@ -1,5 +1,6 @@
 # Emart-app
-A robust ecommerce application that leverages the power of microservices to provide a seamless shopping experience. The application is composed of four microservices, each with its own unique role fully run on docker.
+A robust ecommerce application that leverages the power of microservices to provide a seamless shopping experience. The application is seamlessly dockerized for streamlined deployment and scalability
+
 
 ## Architecture
 ![215137041-b213faae-fb20-45d0-b3e6-27a1275d804a](https://github.com/Ben74x/emart-app/assets/37503046/1707291c-4093-4eb3-a130-4425596ae141)
