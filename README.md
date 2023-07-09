@@ -15,9 +15,3 @@ The architecture of the application is as follows:
 **Books API**: A Java microservice that makes use of the MySQL database and is accessed via /webapi endpoint.
 
 The Emart API and Books API make use of MongoDB and MySQL databases respectively. For a more detailed explanation of the architecture and implementation, please refer to this [blog post](https://bdwumah.dev/blog/Containerising%20Microservice%20Project%20-%20EMART%20App/#App%20Description).
-
-## Installation
-To get started, ensure you have [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine.
-
-Clone the repository with:
-```git clone https://github.com/Ben74x/Emart-App.git```
