@@ -20,4 +20,4 @@ The Emart API and Books API make use of MongoDB and MySQL databases respectively
 To get started, ensure you have [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine.
 
 Clone the repository with:
-```git clone 
+```git clone https://github.com/Ben74x/Emart-App.git```
